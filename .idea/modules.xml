@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability_Score1.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability_Score1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Parse url/Readability_Score1.Problems-Parse_url.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Parse url/Readability_Score1.Problems-Parse_url.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Parse url/Readability_Score1.Problems-Parse_url.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Parse url/Readability_Score1.Problems-Parse_url.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Parse url/Readability_Score1.Problems-Parse_url.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Parse url/Readability_Score1.Problems-Parse_url.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score1.Readability_Score-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score1.Readability_Score-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score1.Readability_Score-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score1.Readability_Score-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score1.Readability_Score-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score1.Readability_Score-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Readability_Score1.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Readability_Score1.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Readability_Score1.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Readability_Score1.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Readability_Score1.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Readability_Score1.util.test.iml" />
+    </modules>
+  </component>
+</project>
